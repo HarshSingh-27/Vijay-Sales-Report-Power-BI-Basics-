@@ -9,3 +9,6 @@ Product Insights: Identify top-selling categories and products.
 Regional Breakdown: Explore sales distribution across different regions.
 Customer Segmentation: Analyze customer behavior for targeted strategies.
 Interactive: Engage with dynamic charts and filters
+
+
+<img width="872" alt="sales report" src="https://github.com/user-attachments/assets/d74d6e9b-e3f5-4c19-a898-ac8274ceb26a">
